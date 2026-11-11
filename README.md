@@ -13,13 +13,13 @@ own computer. A Mac app for Apple silicon. By Jagadeesh Kumar S.
 pour install --cask hone
 ```
 
-Or download **[Hone 1.1.26 for Apple silicon](https://github.com/JKS-sys/hone-releases-07-Nov-2026/releases/download/v1.1.26/Hone_1.1.26_aarch64.dmg)** (6.1 MB), open it and drag Hone to Applications.
+Or download **[Hone 1.1.27 for Apple silicon](https://github.com/JKS-sys/hone-releases-07-Nov-2026/releases/download/v1.1.27/Hone_1.1.27_aarch64.dmg)** (6.1 MB), open it and drag Hone to Applications.
 
 Hone updates itself: Settings → About → Check for updates.
 
 ## This release
 
-See the [release notes of 1.1.26](https://github.com/JKS-sys/hone-releases-07-Nov-2026/releases/tag/v1.1.26).
+See the [release notes of 1.1.27](https://github.com/JKS-sys/hone-releases-07-Nov-2026/releases/tag/v1.1.27).
 
 ## Licence
 
